@@ -1,0 +1,1 @@
+This is Eureka Client, which stores the different instances of the microservices registered with it.
